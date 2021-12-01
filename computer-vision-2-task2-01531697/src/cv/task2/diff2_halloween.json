@@ -1,0 +1,15 @@
+{
+  "testcases":
+  [
+    {
+      "folder": "diff2_halloween",
+      "name": "diff2_halloween",
+      "input_left": "diff2_halloween_left.jpg",
+      "input_right": "diff2_halloween_right.jpg",
+      "match_distance_factor": 0.2,
+      "wl_bin_name": "binboost_128.bin",
+      "diff_sigma": 1,
+      "diff_threshold": 20
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image": "coin.jpg",
+  "theshold_canny_min": 20,
+  "theshold_canny_max": 50,
+  "radius_circle_min": 10,
+  "radius_circle_max": 30,
+  "threshold_hough_line": 30,
+  "threshold_hough_circle": 20,
+  "rho_hough_line": 1.0,
+  "rho_hough_circle": 4.0,
+  "theta_hough_line": 0.05,
+  "rad_hough_circle": 2.0,
+  "max_no_lines": 4,
+  "max_no_circles": 12
+}

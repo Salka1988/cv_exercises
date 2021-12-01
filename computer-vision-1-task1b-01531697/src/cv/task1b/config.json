@@ -1,0 +1,46 @@
+{
+  "data_selected": [
+    "coins1/",
+    "coins3/",
+    "coins_test_3/"
+  ],
+  "data_path": "data/",
+  "out_directory": "output/",
+  "out_filetype": ".png",
+  "out_filename_number_zero_filled": true,
+  "out_filename_number_width": 2,
+  "out_filenames": [
+    "canny_gradient_x",
+    "canny_gradient_y",
+    "canny_gradient",
+    "canny_angles",
+    "canny_non_maxima_supression",
+    "canny_end_result",
+    "dilation",
+    "erosion",
+    "hough_accumulator_circles",
+    "hough_circles_own",
+    "hough_accumulator_lines",
+    "hough_lines_local_maximums",
+    "hough_lines_own",
+    "hough_lines_default"
+  ],
+  "coin_properties": [
+    {
+      "value": 1,
+      "diameter": 16.25
+    },
+    {
+      "value": 5,
+      "diameter": 21.25
+    },
+    {
+      "value": 50,
+      "diameter": 24.25
+    },
+    {
+      "value": 69,
+      "diameter": 1070.0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/CMakeFiles/clean-all.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/CMakeFiles/rebuild_cache.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/CMakeFiles/edit_cache.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/CMakeFiles/rebuild_cache.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/CMakeFiles/cvtask1b.dir
+/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/CMakeFiles/edit_cache.dir

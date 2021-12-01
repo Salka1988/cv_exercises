@@ -1,0 +1,16 @@
+{
+  "testcases":
+  [
+    {
+      "folder": "cards_bonus",
+      "name": "cards_bonus",
+      "input_left": "cards_left_bonus.jpg",
+      "input_right": "cards_right.jpg",
+      "match_distance_factor": 0.7,
+      "wl_bin_name": "binboost_128.bin",
+      "diff_sigma": 1,
+      "diff_threshold": 50,
+      "only_bonus": 0
+    }
+  ]
+}

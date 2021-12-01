@@ -1,0 +1,15 @@
+{
+  "testcases":
+  [
+    {
+      "folder": "diff4_dragon_bonus",
+      "name": "diff4_dragon_bonus",
+      "input_left": "diff4_dragon_left.jpg",
+      "input_right": "diff4_dragon_right_bonus.jpg",
+      "match_distance_factor": 0.98,
+      "wl_bin_name": "binboost_128.bin",
+      "diff_threshold": 25,
+      "diff_sigma": 1.70
+    }
+  ]
+}

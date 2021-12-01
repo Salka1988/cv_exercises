@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cvtask1b"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cv\;CMake Files\cv\task1b\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cvtask1b">
+				<Option output="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/cvtask1b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFULL_VERSION=1"/>
+					<Add directory="/software/opencv/include"/>
+					<Add directory="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cgcvcommon"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 cvtask1b"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cvtask1b/fast">
+				<Option output="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/cvtask1b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFULL_VERSION=1"/>
+					<Add directory="/software/opencv/include"/>
+					<Add directory="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cgcvcommon"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 cvtask1b/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cmake-build-debug/cv/task1b/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cv/task1b/algorithms.cpp">
+			<Option target="cvtask1b"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cv/task1b/algorithms.h">
+			<Option target="cvtask1b"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cv/task1b/main.cpp">
+			<Option target="cvtask1b"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cv/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cv\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/cv/task1b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cv\task1b\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/salka1988/Documents/CV/computer-vision-1-task1b-01531697/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
